@@ -34,7 +34,7 @@ Loves Internet and `<coding>`. A strong believer in quality and in the fact that
 
 - #### Backend
 
-  NodeJS &bull; ExpressJS &bull; GraphQL &bull; MySQL &bull; MongoDB &bull; Symfony Framework &bull; JSON &bull; &bull; REST
+  NodeJS &bull; ExpressJS &bull; GraphQL &bull; MySQL &bull; MongoDB &bull; Symfony Framework &bull; JSON &bull; REST
 
 - #### Tools
 
