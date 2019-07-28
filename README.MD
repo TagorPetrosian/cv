@@ -38,10 +38,10 @@ Loves Internet and `<coding>`. A strong believer in quality and in the fact that
 
 - #### Tools
 
-  Git &bull; GitHub &bull; Bitbucket &bull; JIRA &bull; Slack &bull; Microsoft Office &bull; Linux;
+  Git &bull; GitHub &bull; Bitbucket &bull; JIRA &bull; Slack &bull; Microsoft Office &bull; Linux
 
 - #### Miscellaneous
-  Web Design &bull; Web Development &bull; Database Design &bull; User Experience;
+  Web Design &bull; Web Development &bull; Database Design &bull; User Experience
 
 ## Education
 
