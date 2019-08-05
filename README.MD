@@ -20,7 +20,7 @@ Loves Internet and `<coding>`. A strong believer in quality and in the fact that
 
   > .
 
-- #### Front-end Developer at [V2C LTD]
+- #### Front-end Developer at V2C LTD
 
   _March 2017 - January 2018_
 
@@ -31,7 +31,7 @@ Loves Internet and `<coding>`. A strong believer in quality and in the fact that
 - #### Frontend
 
   HTML &bull; CSS &bull; JavaScript &bull;Typescript &bull; ES2015 &bull; React &bull; Redux &bull; jQuery &bull; AJAX &bull; AngularJS &bull; Twitter Bootstrap
-  &bull; MaterialzeCSS &bull; Material Design &bull; Material-UI &bull; Styled-Components &bull;
+  MaterialzeCSS &bull; Material Design &bull; Material-UI &bull; Styled-Components &bull;
 
 - #### Backend
 
