@@ -10,7 +10,7 @@ Loves Internet and `<coding>`. A strong believer in quality and in the fact that
 
 - #### Front-end Developer at [Coolvision](https://www.facebook.com/pages/Coolvision/203135376370384)
 
-  _May 2018 - present_
+  _May 2019 - present_
 
   > .
 
