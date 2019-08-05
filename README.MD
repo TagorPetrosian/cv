@@ -30,11 +30,12 @@ Loves Internet and `<coding>`. A strong believer in quality and in the fact that
 
 - #### Frontend
 
-  HTML &bull; CSS &bull; JavaScript &bull;Typescript &bull; ES2015 &bull; React &bull; Redux &bull; jQuery &bull; AJAX &bull; AngularJS &bull; Twitter Bootstrap &bull; MaterialzeCSS &bull; Material Design &bull; Material-UI &bull; Styled-Components &bull;
+  HTML &bull; CSS &bull; JavaScript &bull;Typescript &bull; ES2015 &bull; React &bull; Redux &bull; jQuery &bull; AJAX &bull; AngularJS &bull; Twitter Bootstrap
+  &bull; MaterialzeCSS &bull; Material Design &bull; Material-UI &bull; Styled-Components &bull;
 
 - #### Backend
 
-  NodeJS &bull; ExpressJS &bull; GraphQL &bull; MySQL &bull; MongoDB &bull; Symfony Framework &bull; JSON &bull; REST
+  NodeJS &bull; ExpressJS &bull; GraphQL &bull; MySQL &bull; MongoDB &bull; JSON &bull; REST
 
 - #### Tools
 
