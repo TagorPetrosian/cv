@@ -30,7 +30,7 @@ Loves Internet and `<coding>`. A strong believer in quality and in the fact that
 
 - #### Frontend
 
-  HTML &bull; CSS &bull; JavaScript &bull;Typescript &bull; ES2015 &bull; React &bull; Redux &bull; jQuery &bull; AJAX &bull; AngularJS &bull; Twitter Bootstrap
+  HTML &bull; CSS &bull; JavaScript &bull; Typescript &bull; ES2015 &bull; React &bull; Redux &bull; jQuery &bull; AJAX &bull; Twitter Bootstrap
   MaterialzeCSS &bull; Material Design &bull; Material-UI &bull; Styled-Components
 
 - #### Backend
