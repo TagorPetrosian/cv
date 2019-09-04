@@ -46,7 +46,7 @@
 
 ## Education
 
-- #### BSc. Information Systems, Information Technology- [MTA](https://www.mta.ac.il/)
+- #### BSc. Information Systems, Information Technology - [MTA](https://www.mta.ac.il/)
 
   > Grade: 78%
 
