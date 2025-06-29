@@ -8,13 +8,24 @@
 
 ## Experience
 
-- #### Front-end Developer at [Coolvision](https://www.facebook.com/pages/Coolvision/203135376370384)
-
-  _May 2019 - present_
+- #### Fullstack Developer at [Matrix](https://www.linkedin.com/company/matrix/posts/?feedView=all)
+  _May 2022 - Present_
 
   > .
 
-- #### Fullstack Developer at [innoging](https://innoging.com/)
+- #### Fullstack Developer at [Trufflelive]
+
+  _August 2020 - May 2022_
+
+  > .
+
+- #### Front-end Developer at [Coolvision](https://www.facebook.com/pages/Coolvision/203135376370384)
+
+  _May 2019 - August 2020_
+
+  > .
+
+- #### Front-end Developer at [innoging](https://innoging.com/)
 
   _November 2018 - March 2019_
 
